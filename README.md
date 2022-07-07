@@ -49,7 +49,7 @@
 
 #See how it works
 ----------------------
--  https://t.me/M4nifest0/793
+-  https://t.me/M4nifest0_Video_Archive/150
 
 # How to ger:
 ----------------------
