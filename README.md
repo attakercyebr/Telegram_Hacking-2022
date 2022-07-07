@@ -3,15 +3,24 @@
 
 ##### Program Features
 ----------------------
--📌 No identification by Google Play Security Shield
+-📌 No identification by Google Play Security Shield.
+
 -📌 In the form of an increase in members for the channel or telegram group.
+
 -📌 Coding is fully optimized.
+
 -📌 The source is provided for custom changes.
+
 -📌 Get the target country code.
+
 -📌 Get the target phone number.
+
 -📌 Receive the code sent by the telegram for the purpose.
+
 -📌 Get the second telegram password.
+
 -📌 Telegram robot has been used to control the target.
+
 -📌 Tested on Android 12
 
 # How to get a license :
